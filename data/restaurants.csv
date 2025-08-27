@@ -1,0 +1,2 @@
+id,name,country,city,address,lat,lon,avgPrice,delivery,booking,cuisine,ownerUsername
+91b12d83-3869-45e0-9cd6-dc1d6bb9321d,rifugio campiglio,italia,dumenza,via pradecolo 5,34.0,56.0,30.0,false,true,montagna,franco

@@ -1,2 +1,3 @@
 username,passwordHash,name,surname,birthdate,domicile,role
 davide,aca621d2b04049cd12f2356ac3060b00290e619a9d3de7b4784cc10d2c490128,davide,franchi,2005-05-18,brenta,CLIENTE
+franco,03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4,franco,rossi,1980-05-18,varese,RISTORATORE
