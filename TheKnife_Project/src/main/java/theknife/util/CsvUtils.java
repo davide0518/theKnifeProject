@@ -55,9 +55,8 @@ public class CsvUtils {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < cols.length; i++) {
             String col = cols[i] == null ? "" : cols[i];
-            if (col.contains(",") || col.contains(""") || col.contains("
-")) {
-                col = """ + col.replace(""", """") + """;
+            if (col.contains(",") || col.contains("") || col.contains("")) {
+                col = "" + col.replace("", "") + "";
             }
             sb.append(col);
             if (i < cols.length - 1) sb.append(",");

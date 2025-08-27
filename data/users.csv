@@ -1,0 +1,2 @@
+username,passwordHash,name,surname,birthdate,domicile,role
+davide,aca621d2b04049cd12f2356ac3060b00290e619a9d3de7b4784cc10d2c490128,davide,franchi,2005-05-18,brenta,CLIENTE
